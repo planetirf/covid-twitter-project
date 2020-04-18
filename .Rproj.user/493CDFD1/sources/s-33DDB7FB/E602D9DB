@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587176372230.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E602D9DB",
+    "lastKnownWriteTime" : 1587220880,
+    "last_content_update" : 1587220880761,
+    "path" : "~/Desktop/covid-twitter-project/covid_eda_IRF.Rmd",
+    "project_path" : "covid_eda_IRF.Rmd",
+    "properties" : {
+        "cursorPosition" : "169,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

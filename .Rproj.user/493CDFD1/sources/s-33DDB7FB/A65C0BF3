@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587166052453.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A65C0BF3",
+    "lastKnownWriteTime" : 1587176367,
+    "last_content_update" : 1587176367856,
+    "path" : "~/Desktop/covid-twitter-project/covid_eda_template.Rmd",
+    "project_path" : "covid_eda_template.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
